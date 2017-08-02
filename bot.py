@@ -21,7 +21,7 @@ def handle(msg):
         print ('download finished. start converting...')
         # only gif can be added to wechat sticker pack. 
         # and it only checks extension of the file but not the actual format
-        open_image('fin.webp').save('fout.gif', 'GIF')
+        open_image('fin.webp').save('fout.gif', 'PNG')
         print ('conversion done.')
         
         fout = open('fout.gif', 'rb')
