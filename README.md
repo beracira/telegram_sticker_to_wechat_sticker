@@ -1,11 +1,11 @@
 # Dependency
-    * python3 3.5+
-    * Pillow
-    * telepot
+* python3 3.5+
+* Pillow
+* telepot
 
 # Usage
-    replace the token placeholder with your own telegram bot token and run
-        python3 bot.py
+replace the token placeholder with your own telegram bot token and run
+    python3 bot.py
 
 # License
 Copyright © 2017 Beracira Chen <g.beracira@gmail>
