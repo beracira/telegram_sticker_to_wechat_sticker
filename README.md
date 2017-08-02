@@ -5,7 +5,7 @@
 
 # Usage
 replace the token placeholder with your own telegram bot token and run
-    python3 bot.py
+    ```python3 bot.py```
 
 # License
 Copyright © 2017 Beracira Chen <g.beracira@gmail>
